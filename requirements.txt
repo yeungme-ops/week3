@@ -1,0 +1,15 @@
+# Machine learning and data analysis
+scikit-learn==1.9.1
+numpy==2.5.4
+pandas==2.3.3
+
+# Visualization: Vega-Altair is installed as altair;
+# Plotly Express is included in plotly and imported as plotly.express.
+altair==6.3.0
+seaborn==0.13.2
+plotly[express]==7.1.0
+matplotlib==3.11.2
+
+# Notebook execution and interactive chart display in VS Code
+ipykernel==7.4.0
+nbformat==5.11.1
